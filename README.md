@@ -1,3 +1,3 @@
-# [🌐 Live](https://coldfusion123.github.io/personal-website/)
+# [🌍 Preview](https://coldfusion123.github.io/personal-website/)
 
 # Personal portfolio
